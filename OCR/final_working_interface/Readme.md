@@ -91,4 +91,4 @@ Ensure that the .env file is properly configured with the OpenAI API key.
 Static files (CSS, JS, and images) are already configured in settings.py.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License
