@@ -1,4 +1,4 @@
-# Invoice-to-HTML Processor using OCR and GPT-4 Turbo
+# Invoice-to-HTML Processor using OCR and Large Language Model
 
 This project extracts text and layout information from invoice images using Tesseract OCR and processes the content to generate an HTML representation. The processed content includes both static and dynamic placeholders for personal and transactional details such as names, dates, amounts, and more. GPT-4 Turbo is used to analyze the extracted data and organize it into structured HTML, with a focus on retaining layout accuracy, especially for tables, while replacing dynamic content with appropriate placeholders.
 
